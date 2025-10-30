@@ -1,2 +1,1 @@
-# .github
-github thing
+# The magnum opus™
